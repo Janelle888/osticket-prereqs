@@ -42,17 +42,30 @@ Press Windows and "R" on your keyboard, in the window search "control" and then 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/c56b1983-a64d-43c4-a067-6a3c9fc3ad82)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this window click on the box next to IIS(Internet information Services ), now expand this category by clicking the plus next to it. Go to World Wide Web Services and expand this category, then go to Application Development Features and turn on CGI after turning that on minimize this category and open Common HTTP Features. In Common HTTP Features click the two unchecked boxes HTTP Redirection and WebDAV Publishing.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/3b265151-381b-4a3b-b9e6-ca83f1cba41b)
+
 </p>
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/27ec9dda-01d4-4e21-883c-582e3ba3e88f)
+
+
+<p>
+<p>
+Press okay and let those install. </a>👍</h1
 </p>
-<br />
+
