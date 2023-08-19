@@ -66,6 +66,11 @@ In this window click on the box next to IIS(Internet information Services ), now
 
 <p>
 <p>
-Press okay and let those install. </a>👍</h1
-</p>
+Press okay and let those install. After installation go to your browser and in the search bar type in "127.0.0.1" If you have correctly installed IIS then the IIS page should appear. </a>👍</h1
+<p>
 
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/98fa1ed1-2437-4f9d-bcad-cd9a50c2f237)
+
+
+
+<p>
