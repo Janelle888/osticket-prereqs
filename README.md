@@ -48,7 +48,7 @@ Press Windows and "R" on your keyboard, in the window search "control" and then 
 
 </p>
 <p>
-In this window click on the box next to IIS(Internet information Services ), now expand this category by clicking the plus next to it. Go to World Wide Web Services and expand this category, then go to Application Development Features and turn on CGI after turning that on minimize this category and open Common HTTP Features. In Common HTTP Features click the two unchecked boxes HTTP Redirection and WebDAV Publishing.
+In this window click on the box next to IIS(Internet information Services ), now expand this category by clicking the plus next to it. Go to "World Wide Web Services" and expand this category, then go to "Application Development Features" and turn on "CGI" after turning that on minimize this category and open "Common HTTP Features". In "Common HTTP Features" click the two unchecked boxes "HTTP Redirection" and "WebDAV Publishing".
 </p>
 <br />
 
