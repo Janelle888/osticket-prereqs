@@ -85,7 +85,8 @@ Download and Install [PHP Manager](https://drive.google.com/file/d/1RHsNd4eWIOwa
 <p>
   
 <p>
-Download and Install Rewrite Module completely.
+  
+Download and Install [Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link) completely.
 <p>
 
 ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/a0f06db4-206e-4e4a-85a4-8a7aecb8c586)
