@@ -76,7 +76,7 @@ Press okay and let those install. After installation go to your browser and in t
 <h2>IIS Installation Steps</h2>
 <p>
   
-Download and Install PHP Manager completely.
+Download and Install [PHP Manager](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link) completely.
 <p>
 
 ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/370ac715-0732-4a1f-98b4-d7bbabb9a4c2)
