@@ -111,3 +111,6 @@ Download [PHP 7.3.8](https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmv
 
 <p>
 
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/9dad33e2-caa5-4605-a434-73fdedb860a1)
+
+<p>
