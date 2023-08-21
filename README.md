@@ -93,3 +93,21 @@ Download and Install [Rewrite Module](https://drive.google.com/file/d/1tIK9GZBKj
 
 <p>
 
+<p>
+  
+ Go to your "C Drive " and create a folder labled PHP
+<p>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/9f695f02-c1fd-4d53-a1af-363376f2d9a2)
+
+
+<p>
+
+Download [PHP 7.3.8](https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link) it will take a moment to download. Go to your download folder and locate the "PHP 7.3.8 zip file". Right click on this folder and select "Extract All" extract this folders files into the "PHP" folder in your "C Drive".
+
+<p>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/c9f949c5-7435-477e-a177-9ec815788e8c)
+
+<p>
+
