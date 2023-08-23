@@ -155,7 +155,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <br />
   
-- Begin to run the program and select "Standard Configuration", press next untill you get to " Configure server instance" our user name will be "root", enter a password. <b>Make sure you remember this password!
+- Begin to run the program and select "Standard Configuration", press next untill you get to " Configure server instance" our user name will be "root", enter a password. <b>Make sure you remember this password!</b>
 
 <p>
 
@@ -188,3 +188,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/99bd5f16-8f51-4705-afea-d0fe9b287f01)
 
   <p>
+
+- In the window that pops up you want to "Register new PHP Version", go to the "C: Drive" into the "PHP" folder that we created and
+
+  <p>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/786e0929-d192-41d1-b7f5-28bbf840c247)
+
+<p>
