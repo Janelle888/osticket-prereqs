@@ -25,6 +25,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Unzip and Extract PHP Files into New PHP Folder
 - Download VC Redistributable
 - Download MYSQL Server
+- Open IIS as an Admin
+- Register PHP from within IIS
+- Install osTicket v1.15.8
+- Set up osTicket
 
 <h2>IIS Installation Steps</h2>
 
@@ -151,7 +155,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <br />
   
-- Begin to run the program and select "Standard Configuration", press next untill you get to " Configure server instance" our user name will be "root", enter a password. <b> Make sure you remember this password! <b>
+- Begin to run the program and select "Standard Configuration", press next untill you get to " Configure server instance" our user name will be "root", enter a password. <b>Make sure you remember this password!
 
 <p>
 
@@ -170,5 +174,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <br \>
 - Go to the start menu on your computer and search IIS the right click and run the program as an administrator.
 
-- <p>
+ <p>
 
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/cfbd2fa7-5e7c-4a3a-a7dd-a687cff95405)
+
+<p>
+<br \>
+
+- When the window appears double click "PHP Manager"
+
+<p>
+
+  ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/99bd5f16-8f51-4705-afea-d0fe9b287f01)
+
+  <p>
