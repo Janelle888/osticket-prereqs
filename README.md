@@ -139,10 +139,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   <p>
 
-- Download [MySQL Server](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link) when prompted make sure you choose a "Typical" download.
+- Download [MySQL Server](https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link) when prompted make sure you choose a "Typical" download. Once the "FInished" screen appears check the box that says "Launch the MYSQL Instance"
   <p>
 
-  ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/40b0690d-eb0a-4364-b91d-ac88854255c9)
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/40b0690d-eb0a-4364-b91d-ac88854255c9)
 
 <p>
   
+  ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/5141589e-e2a5-4c78-bce2-5bc7829c97a2)
+
+<p>
+<br />
+  
+- Begin to run the program and select "Standard Configuration", press next untill you get to " Configure server instance" and enter a password. Make sure you remember this password!
+
+<p>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/aed886f1-bb3b-4ac6-ba9a-16a8331f2295)
+
+<p>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/af511134-6382-45f0-80df-549ac54a7766)
+
+<p>
+
