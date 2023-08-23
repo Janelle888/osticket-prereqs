@@ -151,7 +151,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <br />
   
-- Begin to run the program and select "Standard Configuration", press next untill you get to " Configure server instance" and enter a password. Make sure you remember this password!
+- Begin to run the program and select "Standard Configuration", press next untill you get to " Configure server instance" our user name will be "root", enter a password. <b> Make sure you remember this password! <b>
 
 <p>
 
@@ -162,4 +162,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/af511134-6382-45f0-80df-549ac54a7766)
 
 <p>
+<br \>
+  
+- Press "Next", "Execute" and then "Finish"
+
+  <p>
+  <br \>
+- Go to the start menu on your computer and search IIS the right click and run the program as an administrator.
+
+- <p>
 
