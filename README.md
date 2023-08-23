@@ -189,10 +189,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   <p>
 
-- In the window that pops up you want to "Register new PHP Version", go to the "C: Drive" into the "PHP" folder that we created and
+- In the window that pops up you want to "Register new PHP Version", go to the "C: Drive" into the "PHP" folder that we created and select "php-cgi".
 
   <p>
 
 ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/786e0929-d192-41d1-b7f5-28bbf840c247)
+
+<p>
+<br \>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/dca0ab75-970b-4671-b94f-bdc9e887ac66) 
 
 <p>
