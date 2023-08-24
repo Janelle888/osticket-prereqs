@@ -243,7 +243,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Refresh your osTicket browser.
 
-- Rename "ost-sampleconfig" to "ost-config" right click the file and go to "properties", "security", "Advanced" you then want to  "Disable inheritance"
+- Rename "ost-sampleconfig" to "ost-config" right click the file and go to "properties", "security", "Advanced" you then want to  "Disable inheritance" and "Remove all inheritance"
 
   <p>
   <br \>
@@ -256,5 +256,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-
+- Now we will add permissions, "Select a principal" search " Everyone" then press okay.
   
