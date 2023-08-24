@@ -201,3 +201,60 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/dca0ab75-970b-4671-b94f-bdc9e887ac66) 
 
 <p>
+
+- Restart your IIS server.
+
+- Install [osTicket](https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link)
+
+- Extract and copy the “upload” folder in the osticket zip file to "c:\inetpub\wwwroot"
+
+  <p>
+  <br \>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/2ef0d407-3b20-4971-8112-d3cf1c04480e)
+
+<p>
+
+- Rename the "upload" folder to "osTicket" and then restart the IIS server again.
+
+- Now inside of IIS you want to go to "sites", "Default", and then "osTicket". To the far right of the window go to “Browse *:80”
+
+  <p>
+  <br \>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/3cdd4a13-1350-4237-9f7f-1e47e559af1d)
+
+  <p>
+
+  - If you have installed osTicket correctly then this window should open on your browser.
+
+    <p>
+    <br \>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/7916cdf8-c4af-4e62-884b-a94b0d99a8a7)
+
+<p>
+
+- Go back to IIS "sites", "Default", "osTicket". Click "PHP Manager" and then go to "Enable or disable an extension" in that window enable "php_imap.dll", "php_intl.dll", "php_opcache.dll".
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/93a88820-9208-4aae-ab89-ca7e6d69510c)
+
+  <p>
+
+- Refresh your osTicket browser.
+
+- Rename "ost-sampleconfig" to "ost-config" right click the file and go to "properties", "security", "Advanced" you then want to  "Disable inheritance"
+
+  <p>
+  <br \>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/9da282aa-f90c-4c04-a46f-f047ca789836)
+
+  <p>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/2ab4f2c3-bcad-45b2-b26a-88eb2c829bd1)
+
+<p>
+
+
+  
