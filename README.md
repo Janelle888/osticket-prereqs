@@ -256,5 +256,33 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-- Now we will add permissions, "Select a principal" search " Everyone" then press okay.
+- Now we will add permissions, "Select a principal" search "Everyone" then press okay. We then want to amek sure we give everyone "Full control"
+
+  <p>
+  <br \>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/d0fb84f8-c743-4280-99cc-402febff452a)
+
+<p>
+
+- Continue "osTicket Basic Installation" and make sure you remember all of your information.
+
+- Set up your database by installing [HeidiSQL](https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit)
+
+- When that launches create a new connection to the database, make sure you enter the username and password that you created before.
+
+<p>
+<br \>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/359ddf41-a2f0-49df-85ff-e5c875b05f17)
+
+<p>
+
+- Create a new database in Heidi called "osTicket". Finish "osTicket Basic Installation".
+
+- Go to wwwroot in "C: Drive" and delete "osTicket setup folder"
+
+  <p>
+
   
+
