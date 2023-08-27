@@ -284,5 +284,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   <p>
 
+
+ ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/daaddaf6-a09a-4853-9c6c-8b24ed78cad8)
+
+<p>
+
+- Reset "ost-config.php" permissions to read only.
+
+  <p>
+  <br \>
+
+  ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/6756948c-d69a-4d6b-bb2a-c9a53753c6d2)
+
+  <p>
+
+ 🥳 <b> Congratulations you have successfully installed [osTicket](http://localhost/osTicket/scp/login.php)!<b/> 🥳
+
   
 
