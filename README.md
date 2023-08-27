@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+In this tutorial we will outline the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install osTicket v1.15.8
 - Set up osTicket
 
-<h2>IIS Installation Steps</h2>
+<b>IIS Installation Steps</b>
 
 <p>
 
