@@ -8,6 +8,8 @@ In this tutorial we will outline the prerequisites and installation of the open-
 
 <h2>Environments and Technologies Used</h2>
 
+- ### [YouTube: Video](https://www.youtube.com)
+
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
