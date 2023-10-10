@@ -8,7 +8,6 @@ In this tutorial we will outline the prerequisites and installation of the open-
 
 <h2>Environments and Technologies Used</h2>
 
-- ### [YouTube: Video](https://www.youtube.com)
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -31,6 +30,8 @@ In this tutorial we will outline the prerequisites and installation of the open-
 - Register PHP from within IIS
 - Install osTicket v1.15.8
 - Set up osTicket
+
+ - ### [YouTube: Video](https://www.youtube.com)
 
 <b>IIS Installation Steps</b>
 
