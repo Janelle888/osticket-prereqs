@@ -31,7 +31,6 @@ In this tutorial we will outline the prerequisites and installation of the open-
 - Install osTicket v1.15.8
 - Set up osTicket
 
- - ### [YouTube: Video](https://www.youtube.com)
 
 <b>IIS Installation Steps</b>
 
