@@ -178,7 +178,7 @@ In this tutorial we will outline the prerequisites and installation of the open-
 
  <p>
 
-![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/cfbd2fa7-5e7c-4a3a-a7dd-a687cff95405)
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/70153902-357a-44eb-b63d-eb0860a95451)
 
 <p>
 <br \>
@@ -187,7 +187,8 @@ In this tutorial we will outline the prerequisites and installation of the open-
 
 <p>
 
-  ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/99bd5f16-8f51-4705-afea-d0fe9b287f01)
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/e8e403d1-4e51-4454-ab31-1d208c0629fb)
+
 
   <p>
 
@@ -200,7 +201,7 @@ In this tutorial we will outline the prerequisites and installation of the open-
 <p>
 <br \>
 
-![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/dca0ab75-970b-4671-b94f-bdc9e887ac66) 
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/c6fd131d-dc11-4aa4-9740-af5f651d5876)
 
 <p>
 
@@ -213,7 +214,7 @@ In this tutorial we will outline the prerequisites and installation of the open-
   <p>
   <br \>
 
-![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/2ef0d407-3b20-4971-8112-d3cf1c04480e)
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/af11063a-aa8f-4a79-ac37-4a4c87c53e9d)
 
 <p>
 
@@ -224,7 +225,7 @@ In this tutorial we will outline the prerequisites and installation of the open-
   <p>
   <br \>
 
-![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/3cdd4a13-1350-4237-9f7f-1e47e559af1d)
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/d33a03d3-641d-44d7-8bc4-3f1b9a458372)
 
   <p>
 
@@ -254,16 +255,20 @@ In this tutorial we will outline the prerequisites and installation of the open-
 
   <p>
 
-![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/2ab4f2c3-bcad-45b2-b26a-88eb2c829bd1)
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/02485ed6-70e5-4860-819d-f7f0be88fb58)
 
 <p>
 
-- Now we will add permissions, "Select a principal" search "Everyone" then press okay. We then want to amek sure we give everyone "Full control"
+- Now we will add permissions, "Select a principal" search "Everyone" then press okay. We then want to make sure we give everyone "Full control"
 
   <p>
   <br \>
 
-![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/d0fb84f8-c743-4280-99cc-402febff452a)
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/fb9c1c84-e191-438b-8287-cd6668bad5ee)
+
+  <p>
+
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/d82626a3-256b-4415-b1d3-2098608d2212)
 
 <p>
 
@@ -287,7 +292,7 @@ In this tutorial we will outline the prerequisites and installation of the open-
   <p>
 
 
- ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/daaddaf6-a09a-4853-9c6c-8b24ed78cad8)
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/b55508e4-275f-4840-8c0c-d4dd2911d843)
 
 <p>
 
@@ -296,7 +301,7 @@ In this tutorial we will outline the prerequisites and installation of the open-
   <p>
   <br \>
 
-  ![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/6756948c-d69a-4d6b-bb2a-c9a53753c6d2)
+![image](https://github.com/Janelle888/osticket-prereqs/assets/142438143/d571f264-43b7-4a2f-bb34-8661271c6295)
 
   <p>
 
